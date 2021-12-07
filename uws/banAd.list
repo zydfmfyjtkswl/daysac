@@ -725,38 +725,38 @@ DOMAIN-SUFFIX,up.qingdaonews.com
 DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
 
 # JD
-DOMAIN-SUFFIX,ads.union.jd.com,REJECT
-DOMAIN-SUFFIX,c-nfa.jd.com,REJECT
-DOMAIN-SUFFIX,cps.360buy.com,REJECT
-DOMAIN-SUFFIX,img-x.jd.com,REJECT
-DOMAIN-SUFFIX,jrclick.jd.com,REJECT
-DOMAIN-SUFFIX,jzt.jd.com,REJECT
-DOMAIN-SUFFIX,policy.jd.com,REJECT
-DOMAIN-SUFFIX,stat.m.jd.com,REJECT
+DOMAIN-SUFFIX,ads.union.jd.com
+DOMAIN-SUFFIX,c-nfa.jd.com
+DOMAIN-SUFFIX,cps.360buy.com
+DOMAIN-SUFFIX,img-x.jd.com
+DOMAIN-SUFFIX,jrclick.jd.com
+DOMAIN-SUFFIX,jzt.jd.com
+DOMAIN-SUFFIX,policy.jd.com
+DOMAIN-SUFFIX,stat.m.jd.com
 
 # Miui 小米
-DOMAIN-SUFFIX,a.market.xiaomi.com,REJECT
-DOMAIN-SUFFIX,ad.xiaomi.com,REJECT
-DOMAIN-SUFFIX,ad1.xiaomi.com,REJECT
-DOMAIN-SUFFIX,adv.sec.intl.miui.com,REJECT
-DOMAIN-SUFFIX,adv.sec.miui.com,REJECT
-DOMAIN-SUFFIX,bss.pandora.xiaomi.com,REJECT
-DOMAIN-SUFFIX,d.g.mi.com,REJECT
-DOMAIN-SUFFIX,data.mistat.xiaomi.com,REJECT
-DOMAIN-SUFFIX,de.pandora.xiaomi.com,REJECT
-DOMAIN-SUFFIX,dvb.pandora.xiaomi.com,REJECT
-DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com,REJECT
-DOMAIN-SUFFIX,migc.g.mi.com,REJECT
-DOMAIN-SUFFIX,migcreport.g.mi.com,REJECT
-DOMAIN-SUFFIX,mis.g.mi.com,REJECT
-DOMAIN-SUFFIX,notice.game.xiaomi.com,REJECT
-DOMAIN-SUFFIX,ppurifier.game.xiaomi.com,REJECT
-DOMAIN-SUFFIX,r.browser.miui.com,REJECT
-DOMAIN-SUFFIX,security.browser.miui.com,REJECT
-DOMAIN-SUFFIX,shenghuo.xiaomi.com,REJECT
-DOMAIN-SUFFIX,stat.pandora.xiaomi.com,REJECT
-DOMAIN-SUFFIX,union.mi.com,REJECT
-DOMAIN-SUFFIX,wtradv.market.xiaomi.com,REJECT
-DOMAIN-SUFFIX,xmpush.xiaomi.com,REJECT
+DOMAIN-SUFFIX,a.market.xiaomi.com
+DOMAIN-SUFFIX,ad.xiaomi.com
+DOMAIN-SUFFIX,ad1.xiaomi.com
+DOMAIN-SUFFIX,adv.sec.intl.miui.com
+DOMAIN-SUFFIX,adv.sec.miui.com
+DOMAIN-SUFFIX,bss.pandora.xiaomi.com
+DOMAIN-SUFFIX,d.g.mi.com
+DOMAIN-SUFFIX,data.mistat.xiaomi.com
+DOMAIN-SUFFIX,de.pandora.xiaomi.com
+DOMAIN-SUFFIX,dvb.pandora.xiaomi.com
+DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
+DOMAIN-SUFFIX,migc.g.mi.com
+DOMAIN-SUFFIX,migcreport.g.mi.com
+DOMAIN-SUFFIX,mis.g.mi.com
+DOMAIN-SUFFIX,notice.game.xiaomi.com
+DOMAIN-SUFFIX,ppurifier.game.xiaomi.com
+DOMAIN-SUFFIX,r.browser.miui.com
+DOMAIN-SUFFIX,security.browser.miui.com
+DOMAIN-SUFFIX,shenghuo.xiaomi.com
+DOMAIN-SUFFIX,stat.pandora.xiaomi.com
+DOMAIN-SUFFIX,union.mi.com
+DOMAIN-SUFFIX,wtradv.market.xiaomi.com
+DOMAIN-SUFFIX,xmpush.xiaomi.com
 
 
